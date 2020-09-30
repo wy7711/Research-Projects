@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py aubo_i5 manipulator_i5 aubo_i5_ikfast_manipulator_i5_plugin /home/why/catkin_ws/src/aubo_i5_ikfast_manipulator_i5_plugin/src/aubo_i5_manipulator_i5_ikfast_solver.cpp
